@@ -16,6 +16,6 @@
 
 ## Repositories
  - [Frontend](https://github.com/Jithma-Wickramarachchi/library-management-system-frontend)
- - [Github Page URL](https://github.com/Jithma-Wickramarachchi/library-management-system-frontend)
+ - [Github Page URL](https://jithma-wickramarachchi.github.io/library-management-system-frontend/)
  - [Book Microservice](https://github.com/Jithma-Wickramarachchi/library-management-system-book-backend.git)
  - [Reader Microservice](https://github.com/Jithma-Wickramarachchi/library-management-system.git)
